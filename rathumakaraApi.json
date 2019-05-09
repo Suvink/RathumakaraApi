@@ -14,9 +14,9 @@
       "රෑ 9ට සිත්ගත් ගී"
     ],
     "popular" : [
-      {"song" : "6th Lane is Back","url":"https://rathumakara.com/wp-content/uploads/2018/12/116.jpg"},
-      {"song" : "6th Lane is Back","url":"https://rathumakara.com/wp-content/uploads/2018/12/116.jpg"},
-      {"song" : "Senehe Ammage","url":"https://rathumakara.com/wp-content/uploads/2018/12/109.jpg"}
+      {"song" : "6th Lane is Back","url":"https://rathumakara.com/wp-content/uploads/2018/12/116.jpg","artist" : "6th Lane"},
+      {"song" : "6th Lane is Back","url":"https://rathumakara.com/wp-content/uploads/2018/12/116.jpg","artist" : "6th Lane"},
+      {"song" : "Senehe Ammage","url":"https://rathumakara.com/wp-content/uploads/2018/12/109.jpg","artist" : "Shehan Mihiranga"}
       
     ],
     "latest":{
