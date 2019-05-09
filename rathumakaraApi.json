@@ -1,0 +1,34 @@
+{
+    "programmes": [
+      "Scrapbook with ShenalG",
+      "Talk with Maarie",
+      "LOගොන් Answers",
+      "පොතක් එක්ක මම",
+      "Bollywood Playlist",
+      "Questions55 with Anu",
+      "DJ Slash Mixtapes",
+      "Movie Cafe with Arshath",
+      "Sinhala Rap With Ranuka",
+      "Top Hits with Nilee",
+      "Over The Boundary",
+      "රෑ 9ට සිත්ගත් ගී"
+    ],
+    "popular" : [
+      {"song" : "6th Lane is Back","url":"https://rathumakara.com/wp-content/uploads/2018/12/116.jpg"},
+      {"song" : "6th Lane is Back","url":"https://rathumakara.com/wp-content/uploads/2018/12/116.jpg"},
+      {"song" : "Senehe Ammage","url":"https://rathumakara.com/wp-content/uploads/2018/12/109.jpg"}
+      
+    ],
+    "latest":{
+      "song":"Senehe Ammage",
+      "date" : "2019/02/01",
+      "url" : "https://rathumakara.com/wp-content/uploads/2018/12/121.jpg"
+    },
+    "related": [
+      {"radio" : "Top Hits with Nilee", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+      {"radio" : "රෑ 9ට සිත්ගත් ගී", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+      {"radio" : "Over The Boundary", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"}
+    ]
+  }
+  
+  
