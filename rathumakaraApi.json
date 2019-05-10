@@ -1,54 +1,88 @@
 {
-    "programmes": [
-      "Scrapbook with ShenalG",
-      "Talk with Maarie",
-      "LOගොන් Answers",
-      "පොතක් එක්ක මම",
-      "Bollywood Playlist",
-      "Questions55 with Anu",
-      "DJ Slash Mixtapes",
-      "Movie Cafe with Arshath",
-      "Sinhala Rap With Ranuka",
-      "Top Hits with Nilee",
-      "Over The Boundary",
-      "රෑ 9ට සිත්ගත් ගී",
-      "සුකියා එක්ක පැලයක්",
-      "ගී with Chapa & Miyuru",
-      "Morning Dew",
-      "Chat with Besties",
-      "Auto Talk with Vishwa",
-      "Sansකෘතිය by DJ San",
-      "LoveFever with Anu",
-      "මහරෑකතිකාවත",
-      "නෑසෙන ගී",
-      "The තුන-පහ Show",
-      "A9 by Slash & Sona",
-      "Foodball ජීවිතේ",
-      "රන්දෙපැය",
-      "තට්ටයෝ",
-      "Random Talk",
-      "නඳුන් උයන",
-      "මතකාවලෝකනය",
-      "Rathumakara Special",
-      "Hot topics",
-      "Morning Coffee"
-    ],
-    "popular" : [
-      {"song" : "Heena Alawanthi","url":"https://pbs.twimg.com/media/D2jobGAVYAEkO8y.jpg","artist" : "Bhashi Devanga"},
-      {"song" : "Ayachana","url":"https://pbs.twimg.com/media/DzWNUzSUwAAgWIw.jpg","artist" : "Sajeewa Dissanayake"},
-      {"song" : "Kawiya","url":"https://pbs.twimg.com/media/DzWMNDRVAAAnaHY.jpg","artist" : "Vidula Ravishara"}
-      
-    ],
-    "latest":{
-      "song":"Deviyo Wadi",
-      "date" : "2019/05/07",
-      "url" : "https://pbs.twimg.com/media/D6C7P8MUIAA3DzR.jpg"
-    },
-    "related": [
-      {"radio" : "Top Hits with Nilee", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
-      {"radio" : "රෑ 9ට සිත්ගත් ගී", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
-      {"radio" : "Over The Boundary", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"}
-    ]
-  }
-  
-  
+  "programmes": [
+    "Scrapbook with ShenalG",
+    "Talk with Maarie",
+    "LOගොන් Answers",
+    "පොතක් එක්ක මම",
+    "Bollywood Playlist",
+    "Questions55 with Anu",
+    "DJ Slash Mixtapes",
+    "Movie Cafe with Arshath",
+    "Sinhala Rap With Ranuka",
+    "Top Hits with Nilee",
+    "Over The Boundary",
+    "රෑ 9ට සිත්ගත් ගී",
+    "සුකියා එක්ක පැලයක්",
+    "ගී with Chapa & Miyuru",
+    "Morning Dew",
+    "Chat with Besties",
+    "Auto Talk with Vishwa",
+    "Sansකෘතිය by DJ San",
+    "LoveFever with Anu",
+    "මහරෑකතිකාවත",
+    "නෑසෙන ගී",
+    "The තුන-පහ Show",
+    "A9 by Slash & Sona",
+    "Foodball ජීවිතේ",
+    "රන්දෙපැය",
+    "තට්ටයෝ",
+    "Random Talk",
+    "නඳුන් උයන",
+    "මතකාවලෝකනය",
+    "Rathumakara Special",
+    "Hot topics",
+    "Morning Coffee"
+  ],
+  "popular" : [
+    {"song" : "Heena Alawanthi","url":"https://pbs.twimg.com/media/D2jobGAVYAEkO8y.jpg","artist" : "Bhashi Devanga"},
+    {"song" : "Ayachana","url":"https://pbs.twimg.com/media/DzWNUzSUwAAgWIw.jpg","artist" : "Sajeewa Dissanayake"},
+    {"song" : "Kawiya","url":"https://pbs.twimg.com/media/DzWMNDRVAAAnaHY.jpg","artist" : "Vidula Ravishara"}
+    
+  ],
+  "latest":{
+    "song":"Deviyo Wadi",
+    "date" : "2019/05/07",
+    "url" : "https://pbs.twimg.com/media/D6C7P8MUIAA3DzR.jpg"
+  },
+  "related": [
+    {"radio" : "Top Hits with Nilee", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "රෑ 9ට සිත්ගත් ගී", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "Over The Boundary", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"}
+  ],
+  "featured" : [
+    {"radio" : "Top Hits with Nilee", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "රෑ 9ට සිත්ගත් ගී", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "Over The Boundary", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"},
+    {"radio" : "Scrapbook with ShenalG", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "Talk with Maarie", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "LOගොන් Answers", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"},
+    {"radio" : "පොතක් එක්ක මම", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "DJ Slash Mixtapes", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "Bollywood Playlist", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"},
+    {"radio" : "Questions55 with Anu", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "Movie Cafe with Arshath", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "Sinhala Rap With Ranuka", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"},
+    {"radio" : "සුකියා එක්ක පැලයක්", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "ගී with Chapa & Miyuru", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "Morning Dew", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"},
+    {"radio" : "Chat with Besties", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "Auto Talk with Vishwa", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "Sansකෘතිය by DJ San", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"},
+    {"radio" : "LoveFever with Anu", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "මහරෑකතිකාවත", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "නෑසෙන ගී", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"},
+    {"radio" : "The තුන-පහ Show", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "A9 by Slash & Sona", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "Foodball ජීවිතේ", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"},
+    {"radio" : "රන්දෙපැය", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "තට්ටයෝ", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "Random Talk", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"},
+    {"radio" : "නඳුන් උයන", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "මතකාවලෝකනය", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+    {"radio" : "Rathumakara Special", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-600x400.jpg"},
+    {"radio" : "Hot topics", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon10-600x400.jpg"},
+    {"radio" : "Morning Coffee", "url":"https://rathumakara.com/wp-content/uploads/2019/02/icon12-1-600x400.jpg"},
+  ]
+}
+
+
